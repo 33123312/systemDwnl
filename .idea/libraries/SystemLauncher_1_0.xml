@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SystemLauncher-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sistemaBuilds/SystemLauncher-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
